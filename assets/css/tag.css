@@ -1,0 +1,64 @@
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  
+  /* line 108, src/assets/scss/_reboot.scss */
+  h1, .h1 {
+    font-size: calc(1.375rem + 1.5vw);
+  }
+  
+  @media (min-width: 1200px) {
+    /* line 108, src/assets/scss/_reboot.scss */
+    h1, .h1 {
+      font-size: 2.5rem;
+    }
+  }
+  
+  /* line 113, src/assets/scss/_reboot.scss */
+  h2, .h2 {
+    font-size: calc(1.325rem + 0.9vw);
+  }
+  
+  @media (min-width: 1200px) {
+    /* line 113, src/assets/scss/_reboot.scss */
+    h2, .h2 {
+      font-size: 2rem;
+    }
+  }
+  
+  /* line 118, src/assets/scss/_reboot.scss */
+  h3, .h3 {
+    font-size: calc(1.3rem + 0.6vw);
+  }
+  
+  @media (min-width: 1200px) {
+    /* line 118, src/assets/scss/_reboot.scss */
+    h3, .h3 {
+      font-size: 1.75rem;
+    }
+  }
+  
+  /* line 123, src/assets/scss/_reboot.scss */
+  h4, .h4 {
+    font-size: calc(1.275rem + 0.3vw);
+  }
+  
+  @media (min-width: 1200px) {
+    /* line 123, src/assets/scss/_reboot.scss */
+    h4, .h4 {
+      font-size: 1.5rem;
+    }
+  }
+  
+  /* line 128, src/assets/scss/_reboot.scss */
+  h5, .h5 {
+    font-size: 1.25rem;
+  }
+  
+  /* line 133, src/assets/scss/_reboot.scss */
+  h6, .h6 {
+    font-size: 1rem;
+  }
