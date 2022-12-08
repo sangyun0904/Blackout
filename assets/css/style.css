@@ -1,11 +1,13 @@
 .navbar {
-  width: 1024px;
-  border-bottom: solid 1px black;
+  width: 100%;
   position: relative;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .container {
   display: flex;
+  border-bottom: solid 1px black;
 }
 
 .navbar-brand {
