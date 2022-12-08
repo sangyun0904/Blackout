@@ -1,8 +1,6 @@
 .navbar {
-  width: 1440px;
+  width: 1080px;
   position: relative;
-  padding-left: 10%;
-  padding-right: 10%;
   margin: auto;
 }
 
@@ -33,9 +31,10 @@ ul {
 
 /* card list */
 
-* {
+/* {
   box-sizing: border-box;
 }
+*/
 
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -66,7 +65,7 @@ body {
   background-color: #f1f1f1;
 }
 
-/* Responsive columns - one column layout (vertical) on small screens */
+/* Responsive columns - one column layout (vertical) on small screens 
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
@@ -74,6 +73,7 @@ body {
     margin-bottom: 20px;
   }
 }
+*/
 
 /* footer */
 .css-299x98 {
