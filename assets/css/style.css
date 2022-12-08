@@ -74,3 +74,46 @@ body {
     margin-bottom: 20px;
   }
 }
+
+/* footer */
+.css-299x98 {
+  border-top: solid 1px black;
+  max-width: 1080px;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.css-1oy0c93 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  color: #828282;
+  font-size: 13px;
+  font-weight: bold;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.css-ew9yyj {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  cursor: pointer;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.css-14qv24c, .css-167igy0 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: #999999;
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
